@@ -1,6 +1,14 @@
 # AMR-among-hospitalized-patients-in-Nigeria
 # National burden and health system variations in antimicrobial resistance among hospitalized patients in Nigeria across successive National Action Plan Policy Phases: A systematic review and meta-analysis
 
+# Authors
+
+# Ridwan Kamarudeena, c*, Iyanuloluwa Samuel Ojob, c*, Luqman Adesakin Tajudeena,c, Warith Ademola Tiamiyuc,d, Daniel Erhabore, Aliyu Abubakarf, Ismail Tajudeen Hamzag, Alabi Hammed Oluwagbemiroh, Daniel Lawalf, Obiageli Chiezey Onwusakai, Adekoya Taiwoc,h, Omololuoye Majekodunmij,, Akaninyene Otub,+, Prof. Olurotimi John Baderof,k,+
+
+*These authors contributed equally and shared first authorship.
++Senior Authors
+
+
 ## About this study
 
 This repository contains the deidentified extracted dataset, R analytical scripts, and supporting materials accompanying a systematic review and meta-analysis investigating the burden and patterns of antimicrobial resistance (AMR) among hospitalized patients in Nigeria.
