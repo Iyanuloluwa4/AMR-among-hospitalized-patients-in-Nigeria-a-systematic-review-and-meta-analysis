@@ -1,4 +1,4 @@
-# AMR-among-hospitalized-patients-in-Nigeria-a-systematic-review-and-meta-analysis
+# AMR-among-hospitalized-patients-in-Nigeria
 # National burden and health system variations in antimicrobial resistance among hospitalized patients in Nigeria across successive National Action Plan Policy Phases: A systematic review and meta-analysis
 
 ## About this study
